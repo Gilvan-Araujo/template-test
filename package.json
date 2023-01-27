@@ -1,5 +1,8 @@
 {
-  "name": "npm-library-test",
+  "name": "@gilvan-araujo/template-test",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/gilvan-araujo"
+  },
   "version": "1.0.0",
   "description": "",
   "scripts": {
